@@ -71,4 +71,4 @@ Multi-branch scan trigger 4
 
 Testing Autobuild and Build on Jenkins, V3
 
-One more edit..
+Updated the Elastic IP of VM
